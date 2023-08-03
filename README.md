@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan kiran Gawade</h1>
-<h3 align="center">Learning about the Data and taking out insights from it</h3>
+<h3 align="center">learning web development and open source</h3>
 <img align = "center" width = "400" alt = "coder" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ0MzExMmZkY2IwNjIyY2M3MDczNTEwYmRmYTA2NjE0MDVmYzg1YSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-- 💬 Ask me about **Data related questions**
 
 - 📫 How to reach me **aryankiran928@gmail.com**
 
