@@ -1,5 +1,5 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = " start" > 
-<h1 align="center">Hi 👋, I'm Aryan Kiran Gawade</h1>
+<h1 align="center">Hi 👋, I'm Aryan Kiran </h1>
 <h3 align="center">Learning Open Source and Exploring Tech</h3>
 <p align="center">
   <img width="400" alt="coder" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ0MzExMmZkY2IwNjIyY2M3MDczNTEwYmRmYTA2NjE0MDVmYzg1YSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
